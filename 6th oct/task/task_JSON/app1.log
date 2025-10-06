@@ -1,0 +1,11 @@
+2025-10-06 16:21:04,904 - root - INFO - student Info saved
+2025-10-06 16:21:04,906 - root - INFO - student Info loaded
+2025-10-06 16:21:04,906 - root - INFO - [{'name': 'Rahul', 'age': 21, 'course': 'AI', 'marks': 85}, {'name': 'Priya', 'age': 22, 'course': 'ML', 'marks': 90}]
+2025-10-06 16:23:12,591 - root - INFO - student Info saved
+2025-10-06 16:23:12,597 - root - INFO - student Info loaded
+2025-10-06 16:23:12,597 - root - INFO - [{'name': 'Rahul', 'age': 21, 'course': 'AI', 'marks': 85}, {'name': 'Priya', 'age': 22, 'course': 'ML', 'marks': 90}]
+2025-10-06 16:28:39,268 - root - INFO - student Info saved
+2025-10-06 16:28:39,270 - root - INFO - student Info loaded
+2025-10-06 16:28:39,270 - root - INFO - [{'name': 'Rahul', 'age': 21, 'course': 'AI', 'marks': 85}, {'name': 'Priya', 'age': 22, 'course': 'ML', 'marks': 90}]
+2025-10-06 16:28:39,271 - root - INFO - New student info added: Ravi
+2025-10-06 16:28:39,271 - root - INFO - File saved successfully
