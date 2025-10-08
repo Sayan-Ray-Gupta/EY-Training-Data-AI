@@ -8,35 +8,13 @@ app = FastAPI()
 class Employee(BaseModel):
     id: int
     name: str
-    department: str
+    dept: str
     salary: float
-
 
 # in-memory database
 employees = [
-    {"id": 1, "name": "Vishal", "department": "IT", "salary": 45000.00},
-    {"id": 2, "name": "Ravi", "department": "HR", "salary": 50000.00},
-    {"id": 3, "name": "Herman", "department": "Support", "salary": 75000.00}
+    {"id": 1, "name": "RaONE", "dept": "Gaming", "salary": 45000.00}
 ]
-
-
-# GET all request
-@app.get("/employees")
-def get_all():
-    return {"Employees": employees}
-
-
-# Count of employees
-@app.get("/employees/count", status_code=200)
-def count_employees():
-    count = len(employees)
-    if count > 0:
-        return {"Total employees": count}
-    else:
-        # Status code 404 is used when the list is empty
-        raise HTTPException(status_code=404, detail="No employees found")
-
-
 # GET a single record
 @app.get("/employees/{emp_id}")
 def get_employee(emp_id: int):
@@ -44,6 +22,12 @@ def get_employee(emp_id: int):
         if record["id"] == emp_id:
             return record
     raise HTTPException(status_code=404, detail="Employee not found")
+
+
+# GET all request
+@app.get("/employees")
+def get_all():
+    return {"Employees": employees}
 
 
 # POST a record
@@ -54,10 +38,9 @@ def add_employee(employee: Employee):
         present_ids.append(record["id"])
     if employee.dict()["id"] not in present_ids:
         employees.append(employee.dict())
-        return {"message": "Employee added successfully", "employee": employee}
+        return employee
     else:
         raise HTTPException(status_code=404, detail="Employee already exists")
-
 
 # PUT request
 @app.put("/employees/{emp_id}")
@@ -65,7 +48,7 @@ def update_employee(emp_id: int, updated_employee: Employee):
     for i, record in enumerate(employees):
         if record["id"] == emp_id:
             employees[i] = updated_employee.dict()
-            return {"message": "Employee updated successfully", "employee": employees[i]}
+            return employees[i]
     raise HTTPException(status_code=404, detail="Employee not found")
 
 
