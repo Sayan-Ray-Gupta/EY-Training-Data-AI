@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Student List</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    h2 { color: #333; }
+    ul { list-style-type: none; padding: 0; }
+    li { margin: 8px 0; padding: 8px; background: #f2f2f2; border-radius: 5px; }
+  </style>
+</head>
+<body>
+
+  <h2>Student List</h2>
+  <button onclick="fetchStudents()">Load Students</button>
+  <ul id="studentList"></ul>
+
+  <script>
+    async function fetchStudents() {
+      try {
+        const response = await fetch('/api/students');
+        if (!response.ok) throw new Error('Network response was not ok');
+
+        const students = await response.json();
+        const listElement = document.getElementById('studentList');
+        listElement.innerHTML = '';
+
+        students.forEach(student => {
+          const li = document.createElement('li');
+          li.textContent = `${student.id}. ${student.name}`;
+          listElement.appendChild(li);
+        });
+      } catch (error) {
+        console.error('Error fetching students:', error);
+        alert('Failed to load students.');
+      }
+    }
+  </script>
+
+</body>
+</html>
