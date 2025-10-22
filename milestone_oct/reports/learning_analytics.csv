@@ -1,14 +1,5 @@
 CourseID,CompletionRate(%),Category,TotalStudents,Country,Enrollments,EnrollMonth
-C101,100.0,,,,,
-C102,0.0,,,,,
-C103,0.0,,,,,
-C104,0.0,,,,,
-,,AI,2.0,,,
+C103,100.0,,,,,
 ,,Analytics,1.0,,,
-,,Cloud,1.0,,,
-,,Programming,2.0,,,
-,,,,India,3.0,
-,,,,UAE,1.0,
-,,,,UK,1.0,
-,,,,USA,1.0,
+,,,,USA,6.0,
 ,,,,,6.0,2025-10
