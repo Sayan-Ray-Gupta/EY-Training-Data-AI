@@ -7,7 +7,7 @@ app = FastAPI()
 
 # Configure logging to write to 'app.log' file
 logging.basicConfig(
-    filename="app.log",
+    filename="log.app",
     format="%(asctime)s | %(levelname)s | %(message)s",
     level=logging.INFO
 )
