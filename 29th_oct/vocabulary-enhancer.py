@@ -1,0 +1,73 @@
+
+import os
+from dotenv import load_dotenv
+from langchain_openai import ChatOpenAI
+from langchain.memory import ConversationBufferMemory
+
+
+# ------------------------------------------------------------
+# 1. Load environment variables
+# ------------------------------------------------------------
+load_dotenv()
+api_key = os.getenv("OPENROUTER_API_KEY")
+base_url = os.getenv("OPENROUTER_BASE_URL", "https://openrouter.ai/api/v1")
+
+if not api_key:
+    raise ValueError("OPENROUTER_API_KEY not found in .env file")
+
+
+# ------------------------------------------------------------
+# 2. Initialize the Mistral model via OpenRouter
+# ------------------------------------------------------------
+llm = ChatOpenAI(
+    model="mistralai/mistral-7b-instruct",
+    temperature=0.4,
+    max_tokens=256,
+    api_key=api_key,
+    base_url=base_url,
+)
+
+
+# ------------------------------------------------------------
+# 3. Initialize memory
+# ------------------------------------------------------------
+memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
+
+
+# ------------------------------------------------------------
+# 4. Conversational loop
+# ------------------------------------------------------------
+print("\n=== Start chatting with your Agent ===")
+print("Type 'exit' to quit.\n")
+
+while True:
+    user_input = input("You: ").strip()
+    if user_input.lower() == "exit":
+        print("\nConversation ended.")
+        break
+
+    # Handle Define command
+    if user_input.lower().startswith("define"):
+        try:
+            word = " ".join(user_input.split()[1:]).strip()
+            if not word:
+                print("Agent: Please provide a word to define. Example: define curious")
+                continue
+            # Use LLM to provide definition or synonym
+            prompt = f"Provide a short definition or synonym for the word '{word}'. Respond in the format: '{word.capitalize()} means [definition or synonym].'"
+            response = llm.invoke(prompt)
+            definition = response.content.strip()
+            print("Agent:", definition)
+            memory.save_context({"input": user_input}, {"output": definition})
+            continue
+        except Exception as e:
+            print("Agent: Could not define word:", e)
+            continue
+
+    # Default: use LLM
+    try:
+        response = llm.invoke(user_input)
+        print("Agent:", response.content)
+        memory.save_context({"input": user_input}, {"output": response.content})
+    except Exception as e:
+        print("Error:", e)
