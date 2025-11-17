@@ -1,0 +1,630 @@
+2025-11-13 13:10:56,030 - __main__ - INFO - Application started
+2025-11-13 13:10:56,031 - __main__ - INFO - Application started
+2025-11-13 13:10:56,031 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:10:56,031 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:10:56,926 - __main__ - INFO - Session state initialized
+2025-11-13 13:10:56,931 - __main__ - INFO - Displaying Home page
+2025-11-13 13:11:06,810 - __main__ - INFO - Application started
+2025-11-13 13:11:06,832 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:11:06,834 - __main__ - INFO - Session state initialized
+2025-11-13 13:11:06,840 - __main__ - INFO - Displaying Home page
+2025-11-13 13:11:20,690 - __main__ - INFO - Application started
+2025-11-13 13:11:20,810 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:11:20,907 - __main__ - INFO - Session state initialized
+2025-11-13 13:11:20,926 - __main__ - INFO - Displaying Home page
+2025-11-13 13:11:25,206 - __main__ - INFO - Application started
+2025-11-13 13:11:25,208 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:11:25,248 - __main__ - INFO - Session state initialized
+2025-11-13 13:11:25,402 - __main__ - INFO - Displaying Home page
+2025-11-13 13:11:25,648 - __main__ - INFO - Application started
+2025-11-13 13:11:25,648 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:11:25,652 - __main__ - INFO - Session state initialized
+2025-11-13 13:11:25,657 - __main__ - INFO - Displaying Hospital Assistant page
+2025-11-13 13:11:30,840 - __main__ - INFO - Application started
+2025-11-13 13:11:30,840 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:11:30,842 - __main__ - INFO - Session state initialized
+2025-11-13 13:11:30,845 - __main__ - INFO - Displaying Hospital Assistant page
+2025-11-13 13:11:34,638 - __main__ - INFO - Application started
+2025-11-13 13:11:34,750 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:11:35,023 - __main__ - INFO - Session state initialized
+2025-11-13 13:11:36,006 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 13:11:36,723 - __main__ - INFO - Application started
+2025-11-13 13:11:36,724 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:11:36,732 - __main__ - INFO - Session state initialized
+2025-11-13 13:11:36,757 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 13:11:38,426 - __main__ - INFO - Application started
+2025-11-13 13:11:38,426 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:11:38,430 - __main__ - INFO - Session state initialized
+2025-11-13 13:11:38,527 - __main__ - INFO - Displaying Home page
+2025-11-13 13:11:40,086 - __main__ - INFO - Application started
+2025-11-13 13:11:40,093 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:11:40,096 - __main__ - INFO - Session state initialized
+2025-11-13 13:11:40,137 - __main__ - INFO - Displaying Home page
+2025-11-13 13:11:40,360 - __main__ - INFO - Application started
+2025-11-13 13:11:40,361 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:11:40,363 - __main__ - INFO - Session state initialized
+2025-11-13 13:11:40,368 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 13:11:46,625 - __main__ - INFO - Application started
+2025-11-13 13:11:46,626 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:11:46,629 - __main__ - INFO - Session state initialized
+2025-11-13 13:11:46,662 - __main__ - INFO - Displaying Home page
+2025-11-13 13:11:51,155 - __main__ - INFO - Application started
+2025-11-13 13:11:51,223 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:11:51,291 - __main__ - INFO - Session state initialized
+2025-11-13 13:11:51,373 - __main__ - INFO - Displaying Home page
+2025-11-13 13:11:53,261 - __main__ - INFO - Application started
+2025-11-13 13:11:53,269 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:11:53,271 - __main__ - INFO - Session state initialized
+2025-11-13 13:11:53,281 - __main__ - INFO - Displaying Home page
+2025-11-13 13:11:53,519 - __main__ - INFO - Application started
+2025-11-13 13:11:53,532 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:11:53,534 - __main__ - INFO - Session state initialized
+2025-11-13 13:11:53,539 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 13:11:55,081 - __main__ - INFO - Application started
+2025-11-13 13:11:55,081 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:11:55,084 - __main__ - INFO - Session state initialized
+2025-11-13 13:11:55,115 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 13:12:00,273 - __main__ - INFO - Application started
+2025-11-13 13:12:00,334 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:12:00,345 - __main__ - INFO - Session state initialized
+2025-11-13 13:12:00,361 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 13:12:00,393 - __main__ - INFO - File uploaded: sterling-accuris-pathology-sample-report-unlocked.pdf
+2025-11-13 13:12:00,443 - __main__ - INFO - Starting PDF text extraction
+2025-11-13 13:12:00,466 - __main__ - INFO - PDF has 19 pages
+2025-11-13 13:12:06,927 - __main__ - INFO - Successfully extracted 32537 characters from PDF
+2025-11-13 13:12:16,680 - __main__ - INFO - Application started
+2025-11-13 13:12:16,681 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:12:16,684 - __main__ - INFO - Session state initialized
+2025-11-13 13:12:16,689 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 13:12:16,701 - __main__ - INFO - File uploaded: sterling-accuris-pathology-sample-report-unlocked.pdf
+2025-11-13 13:12:16,724 - __main__ - INFO - Starting PDF text extraction
+2025-11-13 13:12:16,776 - __main__ - INFO - PDF has 19 pages
+2025-11-13 13:12:22,083 - __main__ - INFO - Successfully extracted 32537 characters from PDF
+2025-11-13 13:12:22,087 - __main__ - INFO - Starting report analysis
+2025-11-13 13:12:22,088 - __main__ - INFO - Starting medical report analysis
+2025-11-13 13:12:22,675 - __main__ - ERROR - Error in analyze_medical_report: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0
+Please retry in 35.379543186s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 35
+}
+]
+2025-11-13 13:12:22,676 - __main__ - ERROR - Error analyzing report: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0
+Please retry in 35.379543186s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 35
+}
+]
+2025-11-13 13:12:49,577 - __main__ - INFO - Application started
+2025-11-13 13:12:49,663 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:12:49,714 - __main__ - INFO - Session state initialized
+2025-11-13 13:12:49,773 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 13:12:49,799 - __main__ - INFO - File uploaded: sterling-accuris-pathology-sample-report-unlocked.pdf
+2025-11-13 13:12:49,867 - __main__ - INFO - Starting PDF text extraction
+2025-11-13 13:12:49,930 - __main__ - INFO - PDF has 19 pages
+2025-11-13 13:12:53,283 - __main__ - INFO - Successfully extracted 32537 characters from PDF
+2025-11-13 13:12:56,433 - __main__ - INFO - Application started
+2025-11-13 13:12:56,434 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:12:56,437 - __main__ - INFO - Session state initialized
+2025-11-13 13:12:56,475 - __main__ - INFO - Displaying Report Chatbot page
+2025-11-13 13:12:59,684 - __main__ - INFO - Application started
+2025-11-13 13:12:59,685 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:12:59,688 - __main__ - INFO - Session state initialized
+2025-11-13 13:12:59,694 - __main__ - INFO - Displaying Report Chatbot page
+2025-11-13 13:13:02,252 - __main__ - INFO - Application started
+2025-11-13 13:13:02,253 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:13:02,256 - __main__ - INFO - Session state initialized
+2025-11-13 13:13:02,317 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 13:13:36,937 - __main__ - INFO - Application started
+2025-11-13 13:13:36,938 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:13:36,940 - __main__ - INFO - Session state initialized
+2025-11-13 13:13:36,950 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 13:13:38,870 - __main__ - INFO - Application started
+2025-11-13 13:13:38,945 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:13:38,961 - __main__ - INFO - Session state initialized
+2025-11-13 13:13:39,039 - __main__ - INFO - Displaying Home page
+2025-11-13 13:13:47,146 - __main__ - INFO - Application started
+2025-11-13 13:13:47,147 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:13:47,150 - __main__ - INFO - Session state initialized
+2025-11-13 13:13:47,154 - __main__ - INFO - Displaying Home page
+2025-11-13 13:13:47,412 - __main__ - INFO - Application started
+2025-11-13 13:13:47,432 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:13:47,434 - __main__ - INFO - Session state initialized
+2025-11-13 13:13:47,440 - __main__ - INFO - Displaying Report Chatbot page
+2025-11-13 13:13:51,129 - __main__ - INFO - Application started
+2025-11-13 13:13:51,137 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:13:51,275 - __main__ - INFO - Application started
+2025-11-13 13:13:51,308 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:13:51,368 - __main__ - INFO - Session state initialized
+2025-11-13 13:13:51,371 - __main__ - INFO - Displaying Report Chatbot page
+2025-11-13 13:13:51,573 - __main__ - INFO - Application started
+2025-11-13 13:13:51,639 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:13:51,805 - __main__ - INFO - Application started
+2025-11-13 13:13:51,815 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:13:51,844 - __main__ - INFO - Session state initialized
+2025-11-13 13:13:51,863 - __main__ - INFO - Displaying Home page
+2025-11-13 13:13:56,885 - __main__ - INFO - Application started
+2025-11-13 13:13:56,919 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:13:56,922 - __main__ - INFO - Session state initialized
+2025-11-13 13:13:56,928 - __main__ - INFO - Displaying Home page
+2025-11-13 13:13:57,208 - __main__ - INFO - Application started
+2025-11-13 13:13:57,210 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:13:57,214 - __main__ - INFO - Session state initialized
+2025-11-13 13:13:57,219 - __main__ - INFO - Displaying Hospital Assistant page
+2025-11-13 13:13:59,864 - __main__ - INFO - Application started
+2025-11-13 13:13:59,865 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:13:59,870 - __main__ - INFO - Session state initialized
+2025-11-13 13:13:59,893 - __main__ - INFO - Displaying Knowledge Base page
+2025-11-13 13:14:01,745 - __main__ - INFO - Application started
+2025-11-13 13:14:01,746 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:14:01,750 - __main__ - INFO - Session state initialized
+2025-11-13 13:14:01,782 - __main__ - INFO - Displaying Knowledge Base page
+2025-11-13 13:14:04,434 - __main__ - INFO - Application started
+2025-11-13 13:14:05,267 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:14:05,347 - __main__ - INFO - Session state initialized
+2025-11-13 13:14:06,776 - __main__ - INFO - Displaying Report Chatbot page
+2025-11-13 13:14:08,579 - __main__ - INFO - Application started
+2025-11-13 13:14:08,579 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:14:08,598 - __main__ - INFO - Session state initialized
+2025-11-13 13:14:08,607 - __main__ - INFO - Displaying Report Chatbot page
+2025-11-13 13:14:10,324 - __main__ - INFO - Application started
+2025-11-13 13:14:10,326 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:14:10,329 - __main__ - INFO - Session state initialized
+2025-11-13 13:14:10,360 - __main__ - INFO - Displaying Home page
+2025-11-13 13:14:23,732 - __main__ - INFO - Application started
+2025-11-13 13:14:23,732 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:14:23,734 - __main__ - INFO - Session state initialized
+2025-11-13 13:14:23,737 - __main__ - INFO - Displaying Home page
+2025-11-13 13:16:27,542 - __main__ - INFO - Application started
+2025-11-13 13:16:27,543 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:16:27,553 - __main__ - INFO - Session state initialized
+2025-11-13 13:16:27,577 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 13:16:28,877 - __main__ - INFO - Application started
+2025-11-13 13:16:28,877 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:16:28,880 - __main__ - INFO - Session state initialized
+2025-11-13 13:16:28,896 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 13:16:30,526 - __main__ - INFO - Application started
+2025-11-13 13:16:30,526 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:16:30,529 - __main__ - INFO - Session state initialized
+2025-11-13 13:16:30,576 - __main__ - INFO - Displaying Knowledge Base page
+2025-11-13 13:16:32,145 - __main__ - INFO - Application started
+2025-11-13 13:16:32,239 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:16:32,244 - __main__ - INFO - Session state initialized
+2025-11-13 13:16:32,250 - __main__ - INFO - Displaying Knowledge Base page
+2025-11-13 13:16:33,577 - __main__ - INFO - Application started
+2025-11-13 13:16:33,579 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:16:33,590 - __main__ - INFO - Session state initialized
+2025-11-13 13:16:33,604 - __main__ - INFO - Displaying Report Chatbot page
+2025-11-13 13:16:35,434 - __main__ - INFO - Application started
+2025-11-13 13:16:35,435 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:16:35,438 - __main__ - INFO - Session state initialized
+2025-11-13 13:16:35,444 - __main__ - INFO - Displaying Report Chatbot page
+2025-11-13 13:16:36,896 - __main__ - INFO - Application started
+2025-11-13 13:16:36,896 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 13:16:36,897 - __main__ - INFO - Session state initialized
+2025-11-13 13:16:36,905 - __main__ - INFO - Displaying Home page
+2025-11-13 17:40:12,236 - __main__ - INFO - Application started
+2025-11-13 17:40:12,237 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 17:40:13,007 - __main__ - INFO - Session state initialized
+2025-11-13 17:40:13,017 - __main__ - INFO - Displaying Home page
+2025-11-13 17:40:25,133 - __main__ - INFO - Application started
+2025-11-13 17:40:25,136 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 17:40:25,152 - __main__ - INFO - Session state initialized
+2025-11-13 17:40:25,314 - __main__ - INFO - Displaying Home page
+2025-11-13 17:40:25,579 - __main__ - INFO - Application started
+2025-11-13 17:40:25,579 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 17:40:25,582 - __main__ - INFO - Session state initialized
+2025-11-13 17:40:25,609 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 17:40:36,206 - __main__ - INFO - Application started
+2025-11-13 17:40:36,263 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 17:40:36,300 - __main__ - INFO - Session state initialized
+2025-11-13 17:40:36,307 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 17:40:43,113 - __main__ - INFO - Application started
+2025-11-13 17:40:43,195 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 17:40:43,266 - __main__ - INFO - Session state initialized
+2025-11-13 17:40:43,275 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 17:40:43,286 - __main__ - INFO - File uploaded: sterling-accuris-pathology-sample-report-unlocked.pdf
+2025-11-13 17:40:43,312 - __main__ - INFO - Starting PDF text extraction
+2025-11-13 17:40:43,349 - __main__ - INFO - PDF has 19 pages
+2025-11-13 17:40:46,395 - __main__ - INFO - Successfully extracted 32537 characters from PDF
+2025-11-13 17:40:51,757 - __main__ - INFO - Application started
+2025-11-13 17:40:51,971 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 17:40:52,117 - __main__ - INFO - Session state initialized
+2025-11-13 17:40:52,250 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 17:40:52,339 - __main__ - INFO - File uploaded: sterling-accuris-pathology-sample-report-unlocked.pdf
+2025-11-13 17:40:52,444 - __main__ - INFO - Starting PDF text extraction
+2025-11-13 17:40:52,491 - __main__ - INFO - PDF has 19 pages
+2025-11-13 17:40:55,840 - __main__ - INFO - Successfully extracted 32537 characters from PDF
+2025-11-13 17:41:05,997 - __main__ - INFO - Application started
+2025-11-13 17:41:06,030 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 17:41:06,103 - __main__ - INFO - Session state initialized
+2025-11-13 17:41:06,196 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 17:41:06,227 - __main__ - INFO - File uploaded: sterling-accuris-pathology-sample-report-unlocked.pdf
+2025-11-13 17:41:06,268 - __main__ - INFO - Starting PDF text extraction
+2025-11-13 17:41:06,315 - __main__ - INFO - PDF has 19 pages
+2025-11-13 17:41:09,382 - __main__ - INFO - Successfully extracted 32537 characters from PDF
+2025-11-13 17:41:15,332 - __main__ - INFO - Application started
+2025-11-13 17:41:15,333 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 17:41:15,336 - __main__ - INFO - Session state initialized
+2025-11-13 17:41:15,376 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 17:41:15,425 - __main__ - INFO - File uploaded: sterling-accuris-pathology-sample-report-unlocked.pdf
+2025-11-13 17:41:15,464 - __main__ - INFO - Starting PDF text extraction
+2025-11-13 17:41:15,486 - __main__ - INFO - PDF has 19 pages
+2025-11-13 17:41:18,324 - __main__ - INFO - Successfully extracted 32537 characters from PDF
+2025-11-13 17:41:18,327 - __main__ - INFO - Starting report analysis
+2025-11-13 17:41:18,328 - __main__ - INFO - Starting medical report analysis
+2025-11-13 17:41:18,955 - __main__ - ERROR - Error in analyze_medical_report: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0
+Please retry in 38.536186205s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 38
+}
+]
+2025-11-13 17:41:20,880 - __main__ - ERROR - Error analyzing report: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0
+Please retry in 38.536186205s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 38
+}
+]
+2025-11-13 17:41:22,921 - __main__ - INFO - Application started
+2025-11-13 17:41:23,016 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 17:41:23,044 - __main__ - INFO - Session state initialized
+2025-11-13 17:41:23,054 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 17:41:23,066 - __main__ - INFO - File uploaded: sterling-accuris-pathology-sample-report-unlocked.pdf
+2025-11-13 17:41:23,138 - __main__ - INFO - Starting PDF text extraction
+2025-11-13 17:41:23,160 - __main__ - INFO - PDF has 19 pages
+2025-11-13 17:41:26,170 - __main__ - INFO - Successfully extracted 32537 characters from PDF
+2025-11-13 17:41:35,732 - __main__ - INFO - Application started
+2025-11-13 17:41:35,738 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 17:41:35,839 - __main__ - INFO - Session state initialized
+2025-11-13 17:41:35,924 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 17:41:36,005 - __main__ - INFO - File uploaded: sterling-accuris-pathology-sample-report-unlocked.pdf
+2025-11-13 17:41:36,069 - __main__ - INFO - Starting PDF text extraction
+2025-11-13 17:41:36,091 - __main__ - INFO - PDF has 19 pages
+2025-11-13 17:41:39,570 - __main__ - INFO - Successfully extracted 32537 characters from PDF
+2025-11-13 17:41:43,117 - __main__ - INFO - Application started
+2025-11-13 17:41:43,118 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 17:41:43,119 - __main__ - INFO - Session state initialized
+2025-11-13 17:41:43,123 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 17:41:43,132 - __main__ - INFO - File uploaded: sterling-accuris-pathology-sample-report-unlocked.pdf
+2025-11-13 17:41:43,242 - __main__ - INFO - Starting PDF text extraction
+2025-11-13 17:41:43,263 - __main__ - INFO - PDF has 19 pages
+2025-11-13 17:41:46,378 - __main__ - INFO - Successfully extracted 32537 characters from PDF
+2025-11-13 17:41:46,380 - __main__ - INFO - Starting report analysis
+2025-11-13 17:41:46,382 - __main__ - INFO - Starting medical report analysis
+2025-11-13 17:41:46,872 - __main__ - ERROR - Error in analyze_medical_report: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0
+Please retry in 10.596618707s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 10
+}
+]
+2025-11-13 17:41:46,872 - __main__ - ERROR - Error analyzing report: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0
+Please retry in 10.596618707s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 10
+}
+]
+2025-11-13 17:41:52,027 - __main__ - INFO - Application started
+2025-11-13 17:41:52,278 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 17:41:52,349 - __main__ - INFO - Session state initialized
+2025-11-13 17:41:52,368 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 17:41:52,429 - __main__ - INFO - File uploaded: sterling-accuris-pathology-sample-report-unlocked.pdf
+2025-11-13 17:41:52,528 - __main__ - INFO - Starting PDF text extraction
+2025-11-13 17:41:52,553 - __main__ - INFO - PDF has 19 pages
+2025-11-13 17:41:55,698 - __main__ - INFO - Successfully extracted 32537 characters from PDF
+2025-11-13 17:41:59,204 - __main__ - INFO - Application started
+2025-11-13 17:41:59,205 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 17:41:59,207 - __main__ - INFO - Session state initialized
+2025-11-13 17:41:59,218 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 17:41:59,270 - __main__ - INFO - File uploaded: sterling-accuris-pathology-sample-report-unlocked.pdf
+2025-11-13 17:41:59,274 - __main__ - INFO - Starting PDF text extraction
+2025-11-13 17:41:59,352 - __main__ - INFO - PDF has 19 pages
+2025-11-13 17:42:02,249 - __main__ - INFO - Successfully extracted 32537 characters from PDF
+2025-11-13 17:42:02,252 - __main__ - INFO - Starting report analysis
+2025-11-13 17:42:02,253 - __main__ - INFO - Starting medical report analysis
+2025-11-13 17:42:02,667 - __main__ - ERROR - Error in analyze_medical_report: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0
+Please retry in 54.799489666s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-11-13 17:42:02,667 - __main__ - ERROR - Error analyzing report: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0
+Please retry in 54.799489666s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-11-13 17:42:06,811 - __main__ - INFO - Application started
+2025-11-13 17:42:07,030 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 17:42:07,132 - __main__ - INFO - Session state initialized
+2025-11-13 17:42:07,319 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 17:42:07,411 - __main__ - INFO - File uploaded: sterling-accuris-pathology-sample-report-unlocked.pdf
+2025-11-13 17:42:07,652 - __main__ - INFO - Starting PDF text extraction
+2025-11-13 17:42:07,771 - __main__ - INFO - PDF has 19 pages
+2025-11-13 17:42:10,850 - __main__ - INFO - Successfully extracted 32537 characters from PDF
+2025-11-13 20:29:36,576 - __main__ - INFO - Application started
+2025-11-13 20:29:36,577 - __main__ - INFO - Gemini model initialized successfully
+2025-11-13 20:29:36,580 - __main__ - INFO - Session state initialized
+2025-11-13 20:29:36,673 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-13 20:29:36,686 - __main__ - INFO - File uploaded: sterling-accuris-pathology-sample-report-unlocked.pdf
+2025-11-13 20:29:36,687 - __main__ - INFO - Starting PDF text extraction
+2025-11-13 20:29:36,707 - __main__ - INFO - PDF has 19 pages
+2025-11-13 20:29:39,537 - __main__ - INFO - Successfully extracted 32537 characters from PDF
+2025-11-14 02:30:07,708 - __main__ - INFO - Application started
+2025-11-14 02:30:07,709 - __main__ - INFO - Gemini model initialized successfully
+2025-11-14 02:30:07,925 - __main__ - INFO - Session state initialized
+2025-11-14 02:30:07,932 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-14 02:30:08,076 - __main__ - INFO - File uploaded: sterling-accuris-pathology-sample-report-unlocked.pdf
+2025-11-14 02:30:08,233 - __main__ - INFO - Starting PDF text extraction
+2025-11-14 02:30:08,253 - __main__ - INFO - PDF has 19 pages
+2025-11-14 02:30:12,957 - __main__ - INFO - Successfully extracted 32537 characters from PDF
+2025-11-14 02:30:31,071 - __main__ - INFO - Application started
+2025-11-14 02:30:31,072 - __main__ - INFO - Gemini model initialized successfully
+2025-11-14 02:30:31,074 - __main__ - INFO - Session state initialized
+2025-11-14 02:30:31,107 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-14 02:30:31,119 - __main__ - INFO - File uploaded: sterling-accuris-pathology-sample-report-unlocked.pdf
+2025-11-14 02:30:31,120 - __main__ - INFO - Starting PDF text extraction
+2025-11-14 02:30:31,162 - __main__ - INFO - PDF has 19 pages
+2025-11-14 02:30:33,838 - __main__ - INFO - Successfully extracted 32537 characters from PDF
+2025-11-14 03:10:09,034 - __main__ - INFO - Application started
+2025-11-14 03:10:09,034 - __main__ - INFO - Gemini model initialized successfully
+2025-11-14 03:10:09,037 - __main__ - INFO - Session state initialized
+2025-11-14 03:10:09,042 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-14 03:10:09,096 - __main__ - INFO - File uploaded: sterling-accuris-pathology-sample-report-unlocked.pdf
+2025-11-14 03:10:09,098 - __main__ - INFO - Starting PDF text extraction
+2025-11-14 03:10:09,137 - __main__ - INFO - PDF has 19 pages
+2025-11-14 03:10:11,758 - __main__ - INFO - Successfully extracted 32537 characters from PDF
+2025-11-14 10:31:47,844 - __main__ - INFO - Application started
+2025-11-14 10:31:47,846 - __main__ - INFO - Gemini model initialized successfully
+2025-11-14 10:31:48,152 - __main__ - INFO - Session state initialized
+2025-11-14 10:31:49,833 - __main__ - INFO - Displaying Report Chatbot page
+2025-11-14 10:31:56,487 - __main__ - INFO - Application started
+2025-11-14 10:31:56,561 - __main__ - INFO - Gemini model initialized successfully
+2025-11-14 10:31:56,633 - __main__ - INFO - Session state initialized
+2025-11-14 10:31:56,711 - __main__ - INFO - Displaying Report Chatbot page
+2025-11-14 10:31:59,211 - __main__ - INFO - Application started
+2025-11-14 10:31:59,212 - __main__ - INFO - Gemini model initialized successfully
+2025-11-14 10:31:59,267 - __main__ - INFO - Session state initialized
+2025-11-14 10:31:59,600 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-14 10:32:03,851 - __main__ - INFO - Application started
+2025-11-14 10:32:03,851 - __main__ - INFO - Gemini model initialized successfully
+2025-11-14 10:32:03,854 - __main__ - INFO - Session state initialized
+2025-11-14 10:32:03,861 - __main__ - INFO - Displaying Report Analyzer page
+2025-11-14 10:32:06,840 - __main__ - INFO - Application started
+2025-11-14 10:32:06,840 - __main__ - INFO - Gemini model initialized successfully
+2025-11-14 10:32:06,841 - __main__ - INFO - Session state initialized
+2025-11-14 10:32:06,849 - __main__ - INFO - Displaying Hospital Assistant page
+2025-11-14 10:34:00,362 - __main__ - INFO - Application started
+2025-11-14 10:34:00,389 - __main__ - INFO - Gemini model initialized successfully
+2025-11-14 10:34:00,398 - __main__ - INFO - Session state initialized
+2025-11-14 10:34:00,404 - __main__ - INFO - Displaying Hospital Assistant page
