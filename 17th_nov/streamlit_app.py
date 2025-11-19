@@ -503,6 +503,7 @@ st.markdown("""
     border-radius: 8px;
     margin: 0.5rem 0;
     border-left: 4px solid #10b981;
+    color: #0d3b2e;              /* ADD THIS */
 }
 .insight-warning {
     background: #fed7aa;
@@ -517,6 +518,7 @@ st.markdown("""
     border-radius: 8px;
     margin: 0.5rem 0;
     border-left: 4px solid #ef4444;
+    color: #5e0b0b;              /* ADD THIS */
 }
 /* Sidebar styling */
 [data-testid="stSidebar"] {
